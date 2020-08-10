@@ -141,9 +141,11 @@
   <ItemGroup>
     <ClCompile Include="CellularAutomaton.cpp" />
     <ClCompile Include="ElementaryCA.cpp" />
+    <ClCompile Include="TwoDimensionCA.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ElementaryCA.h" />
+    <ClInclude Include="TwoDimensionCA.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

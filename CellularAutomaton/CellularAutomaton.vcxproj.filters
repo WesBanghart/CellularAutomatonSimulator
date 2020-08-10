@@ -21,9 +21,15 @@
     <ClCompile Include="ElementaryCA.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="TwoDimensionCA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ElementaryCA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoDimensionCA.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -11,9 +11,8 @@ public:
     {
         state = new int[stateSize];
         prevState = new int[stateSize];
-       // ruleSet = new int[8];
     }
-    void simulate(int rule, int iterations = 1000);
+    void simulate(int rule, int iterations = 250);
 private:
     int* state;
     int* prevState;
